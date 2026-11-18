@@ -1,4 +1,4 @@
-# Java Exam Projects - 2026
+# Programming 1B Exam 
 
 This repository contains the complete source code and unit tests for the practical Java exam, organized into two separate projects.
 
